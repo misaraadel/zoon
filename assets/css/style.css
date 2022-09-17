@@ -1585,7 +1585,7 @@ header .box:hover h2 {
   }
   header {
     background-position: top right !important;
-    padding: 50px 0px;
+    padding: 100px 0px 50px;
   }
   header .image-content {
     height: 250px !important;
